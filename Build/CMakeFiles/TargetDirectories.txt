@@ -1,0 +1,3 @@
+/Users/gigavashakidze/Downloads/Assign4_Vashakidze/XSalary/Salarymanagement/Build/CMakeFiles/Salary.dir
+/Users/gigavashakidze/Downloads/Assign4_Vashakidze/XSalary/Salarymanagement/Build/CMakeFiles/ALL_BUILD.dir
+/Users/gigavashakidze/Downloads/Assign4_Vashakidze/XSalary/Salarymanagement/Build/CMakeFiles/ZERO_CHECK.dir

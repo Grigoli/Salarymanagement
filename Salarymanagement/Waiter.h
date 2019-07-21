@@ -13,7 +13,7 @@ class Waiter : public Employee
         virtual double Calculate_salary(double tips);
 
     private:
-        int myYearsServed, mySalary;
+        int myYearsServed;
 };
 
 //--- Definition of Waiter's Constructor
